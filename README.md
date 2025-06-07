@@ -1,6 +1,8 @@
 <h1 align="center">RIMURU BOT – TENSURA</h1>
 
-![Rimuru Tempest](assets/rimuru_header-bg.png)
+<p align="center">
+  <img src="assets/rimuru_header-bg.png" alt="Rimuru Tempest" />
+</p>
 
 **Rimuru Bot** is your all-in-one WhatsApp AI companion inspired by Rimuru Tempest. Powered by a human-like conversational engine with emotions, memory and context-aware reactions, it feels less like a bot and more like a friend.
 
@@ -62,6 +64,7 @@
 
 | Personality | Icon                                                                                                            | Description                                   |
 |-------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| RIMURU      | <img src="https://rimuruslime.com/wp-content/uploads/2025/05/chibi_rimuru.png" alt="RIMURU Icon" width="150" /> | The adaptive core persona with limitless potential.   |
 | YUKI        | <img src="https://rimuruslime.com/wp-content/uploads/2025/05/chibi_yuki.png" alt="YUKI Icon" width="150" />     | The calm and thoughtful strategist.           |
 | REM         | <img src="https://rimuruslime.com/wp-content/uploads/2025/05/chibi_rem.png" alt="REM Icon" width="150" />       | The energetic mood-booster.                   |
 | FRIEREN     | <img src="https://rimuruslime.com/wp-content/uploads/2025/05/chibi_frieren_2.png" alt="FRIEREN Icon" width="150" /> | The wise wanderer with deep insights.         |
