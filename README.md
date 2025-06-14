@@ -1,6 +1,25 @@
 <h1 align="center">RIMURU BOT – TENSURA</h1>
 
 <p align="center">
+  <a href="https://rimuruslime.com">
+    <img src="https://rimuruslime.com/wp-content/uploads/2025/05/cropped-rimuru_header.png" alt="RimuruSlime Icon" width="48" />
+  </a>
+  <a href="https://rimuruslime.com">https://rimuruslime.com</a>
+</p>
+
+---
+
+> **🔧 Technical Overview**  
+> This is a demonstration README of **Rimuru Bot**, a private WhatsApp AI companion written entirely in **TypeScript**, running on **Node.js** (deployed on a Raspberry Pi 5), and leveraging modern AI frameworks for conversational intelligence. The project is fully modular and extensible, with:
+> - **TypeScript** for static typing and maintainability  
+> - **Express.js** for connecting the website frontend to the bot’s backend  
+> - **Baileys** library for WhatsApp protocol integration  
+> - **MongoDB** for persistent storage of chats, user data, and memory  
+> - Direct Node.js deployment on a Raspberry Pi 5  
+
+---
+
+<p align="center">
   <img src="assets/rimuru_header-bg.png" alt="Rimuru Tempest" />
 </p>
 
@@ -60,7 +79,7 @@
 
 ---
 
-## 📋 Personalities & Icons
+## 📋 Personalities
 
 | Personality | Icon                                                                                                            | Description                                   |
 |-------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
